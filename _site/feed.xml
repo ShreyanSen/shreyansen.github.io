@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shreyan Sen</title>
+    <description>expert amateur, data scientist, mindfulness instructor</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 05 Oct 2023 01:22:20 -0400</pubDate>
+    <lastBuildDate>Thu, 05 Oct 2023 01:22:20 -0400</lastBuildDate>
+    <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Personal Writing</title>
+        <description>
+</description>
+        <pubDate>Sat, 20 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/writing/2016/02/20/writing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/writing/2016/02/20/writing.html</guid>
+        
+        <category>writing</category>
+        
+        
+        <category>writing</category>
+        
+      </item>
+    
+      <item>
+        <title>Cost Sharing Calculator</title>
+        <description>
+</description>
+        <pubDate>Wed, 17 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/development/2016/02/17/democratic-cost-sharing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2016/02/17/democratic-cost-sharing.html</guid>
+        
+        <category>Democracy</category>
+        
+        <category>Tech</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Pax Corps Guinea</title>
+        <description>
+</description>
+        <pubDate>Mon, 18 Jan 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/development/design/2016/01/18/peace-corps-blog.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/2016/01/18/peace-corps-blog.html</guid>
+        
+        <category>Peace</category>
+        
+        <category>Corps</category>
+        
+        <category>Guinea</category>
+        
+        
+        <category>development</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+  </channel>
+</rss>
