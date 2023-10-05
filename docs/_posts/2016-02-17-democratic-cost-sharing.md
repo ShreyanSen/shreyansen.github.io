@@ -2,6 +2,7 @@
 layout: inner
 position: right
 title: 'Cost Sharing Calculator'
+date: 2016-02-17 00:00:00
 categories: development
 tags: Democracy Tech
 featured_image: '/img/posts/sharing_pizza.jpg'

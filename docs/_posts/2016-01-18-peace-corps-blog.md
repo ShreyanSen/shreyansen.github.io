@@ -2,6 +2,7 @@
 layout: inner
 position: left
 title: 'Pax Corps Guinea'
+date: 2016-01-18 00:00:00
 categories: development design
 tags: Peace Corps Guinea
 featured_image: '/img/posts/peace_corps.jpg'
