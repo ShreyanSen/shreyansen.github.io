@@ -16,8 +16,8 @@
 title: "Shreyan Sen"
 email: 'shreyan.sen@alumni.duke.edu'
 description: "expert amateur, data scientist, mindfulness instructor"
-baseurl: "https://shreyansen.github.io/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://shreyansen.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
 github_username: 'ShreyanSen'
 medium_username: ''
