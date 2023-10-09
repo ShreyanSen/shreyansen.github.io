@@ -16,21 +16,21 @@ feature_row:
     excerpt: ""
     url: "https://www.linkedin.com/in/shreyansen/"
     btn_class: "btn--primary"
-    btn_label: "Time To Think"
+    btn_label: "Click To Think"
   - image_path: /assets/images/sen-water.jpeg
     alt: ""
     title: "Mindfulness Instructor"
     excerpt: ""
     url: "/mindfulness-instruction/"
     btn_class: "btn--primary"
-    btn_label: "Time To Pause"
+    btn_label: "Click To Pause"
   - image_path: /assets/images/sen-flower.jpeg
     alt: ""
     title: "Writer"
     excerpt: ""
     url: "https://shreyansen.github.io/writing/"
     btn_class: "btn--primary"
-    btn_label: "Time To Feel"      
+    btn_label: "Click To Feel"      
 ---
 
 {% include feature_row %}
