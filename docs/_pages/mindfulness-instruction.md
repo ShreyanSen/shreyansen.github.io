@@ -26,7 +26,7 @@ Whether you are totally new to mindfulness or a seasoned sitter, it would be my 
 
 # Meet Your Mindfulness Instructor
 
-I first sat in meditation over ten years ago. Since 2020 my personal practice has greatly strengthened as I've practiced in community and at mindfulness retreats as part of Thich Nhat Hanh's [Plum Village](https://plumvillage.org/#filter=.region-na) tradition. In 2021 I completed a Certified Mindfulness Instructor course created by the renowned [Rev. angel Kyodo williams](https://revangel.com/), the second Black woman in history to be authorized to teach Zen and author of Radical Dharma: Talking Race, Love, and Liberation. Since 2021 I have had the good fortune to train under [Zen Master Jion](http://jion-blonstein.com/).
+I first sat in meditation over ten years ago. Since 2020 my personal practice has greatly strengthened as I've practiced in community and at mindfulness retreats as part of Thich Nhat Hanh's [Plum Village](https://plumvillage.org/#filter=.region-na) tradition. In 2022 I completed a Certified Mindfulness Instructor course created by the renowned [Rev. angel Kyodo williams](https://revangel.com/), the second Black woman in history to be authorized to teach Zen and author of Radical Dharma: Talking Race, Love, and Liberation. Since May of 2022 I have had the good fortune to train under [Zen Master Jion](http://jion-blonstein.com/).
 
 <br/><br/>
 ![Mindfulness Instructor 2](/assets/images/mndfl_certificate.png)
