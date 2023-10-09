@@ -22,7 +22,7 @@ While mindfulness is clearly useful for spirituality and health, it has other us
 
 It's important to understand that mindfulness is not a cure-all, nor does it always generate a helpful or pleasant experience. If you were to get a papercut, mindfulness of your pain might not make it go away--you might feel even more pain as you focus on it. Sometimes it's better to take an ibuprofen than to use mindfulness. Psychological pain is no different. Mindfulness of trauma can trigger adverse experiences. This is part of the reason having a good mindfulness instructor or mindfulness community is a big support. It takes time to learn how to practice mindfulness well, when to push yourself, when to slow down, and how to create the spaciousness, insight, and freedom that mindfulness supports.
 
-Whether you are totally new to mindfulness or a seasoned sitter, it would be my honor serve as your Mindfulness Instructor and share with you some of what I've been taught.
+Whether you are totally new to mindfulness or a seasoned sitter, it would be my honor to serve as your Mindfulness Instructor and share with you some of what I've been taught.
 
 # Meet Your Mindfulness Instructor
 
