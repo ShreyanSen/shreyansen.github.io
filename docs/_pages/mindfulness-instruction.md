@@ -26,7 +26,7 @@ Whether you are totally new to mindfulness or a seasoned sitter, it would be my 
 
 # Meet Your Mindfulness Instructor
 
-I first sat in meditation over ten years ago. Since 2020 my personal practice has greatly strengthened as I've practiced in community and at mindfulness retreats as part of Thich Nhat Hanh's [Plum Village](https://plumvillage.org/#filter=.region-na) tradition. In 2022 I completed a Certified Mindfulness Instructor course created by the renowned [Rev. angel Kyodo williams](https://revangel.com/), the second Black woman in history to be authorized to teach Zen and author of Radical Dharma: Talking Race, Love, and Liberation. Since May of 2022 I have had the good fortune to train under [Zen Master Jion](http://jion-blonstein.com/).
+I first sat in meditation over ten years ago. Since 2020 my personal practice has greatly strengthened as I've practiced in community and at mindfulness retreats as part of Thich Nhat Hanh's [Plum Village](https://plumvillage.org/#filter=.region-na) tradition. In 2022 I completed a Certified Mindfulness Instructor course created by the renowned [Rev. angel Kyodo williams](https://revangel.com/), the second Black woman in history to be authorized to teach Zen and author of Radical Dharma: Talking Race, Love, and Liberation. Since May of 2022 I have had the good fortune to train under [Zen Master Jion](http://jion-blonstein.com/). Over the past two years I have facilitated for four separate weekly meditation groups.
 
 <br/><br/>
 ![Mindfulness Instructor 2](/assets/images/mndfl_certificate.png)
@@ -38,3 +38,8 @@ I first sat in meditation over ten years ago. Since 2020 my personal practice ha
 
 
 {% endcomment %}
+<br/><br/>
+
+# Offerings
+
+I am currently taking on new private and corporate clients (employee wellness offering). A typical session consists of some combination of: mindfulness talks, reading, corrective posture, guided meditation, unguided meditation, deep listening session, and Q&A. Please contact me directly at living_mindful@pm.me to schedule a consultation on whether mindfulness instruction is for you.
