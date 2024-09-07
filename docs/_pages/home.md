@@ -15,7 +15,7 @@ feature_row_services:
   - image_path: /assets/images/sen-flower.jpeg
     alt: ""
     title: "Next Level Data Science"
-    excerpt: "gain real-world fundamentals and overcome imposter syndrome"
+    excerpt: "learn what they don't teach in school <br> overcome imposter syndrome <br> discover mindful coding"
     url: "/next-level-data-science/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
@@ -107,6 +107,10 @@ feature_row_archived:
     btn_label: "Click To Feel" 
 ---
 
+<!---
+dropped lines: 
+{% include feature_row id="services" type="center" %}
+-->
 {% include feature_row id="services" type="center" %}
 {% include feature_row id="feature_row_services" type="center"%}
 {% include feature_row id="projects" type="center" %}
