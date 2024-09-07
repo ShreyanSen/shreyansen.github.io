@@ -1,12 +1,16 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: ""
+excerpt: 
+excerpt: 
+  <br />
+header:
+  overlay_image: /assets/images/shrey_flower.jpeg
+
 ---
-Welcome! I'm Shreyan Sen, a data scientist and mindfulness instructor. This is my personal site, where you'll find paths to various projects I'm working on. I enjoy writing, flute, and tea.
+Welcome! I'm a data scientist, mindfulness and yoga instructor, and general tinkerer. I like to put linux on old laptops nobody uses anymore. It must be that I have a soft spot for useless old things. There's a story about an old redwood who was too bent and twisted to make for good lumber. Being useless, it missed the axe that took the rest of its forest. Now children play in its shade.
 
-This page is called Original Mind. Why? To serve as an Original ReMinder.
+"To carry yourself forward and experience myriad things is delusion. That
+myriad things come forth and experience themselves is awakening."
 
-“You should therefore cease from practice based on intellectual understanding, pursuing words and following after speech, and learn the backward step that turns your light inwardly to illuminate your self. Body and mind of themselves will drop away, and your original face will be manifest."
-
--Dogen
+Dogen, Genjokoan.

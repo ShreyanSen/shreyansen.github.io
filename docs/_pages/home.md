@@ -2,17 +2,16 @@
 layout: splash
 permalink: /
 hidden: true
+title: Portfolio
 header:
   #overlay_color: "#5e616c"
   overlay_image: /assets/images/shrey_flower.jpeg
-excerpt: >
-  <br />
-  <br />
+excerpt: 
   <br />
 services:
   - excerpt: "<h1>Services</h1>"  
 feature_row_services:
-  - image_path: /assets/images/sen-flower.jpeg
+  - image_path: /assets/images/sen-flower.jpeg #/assets/images/sen-mountains.jpeg
     alt: ""
     title: "Next Level Data Science"
     excerpt: "learn what they don't teach in school <br> overcome imposter syndrome <br> discover mindful coding"
@@ -21,13 +20,20 @@ feature_row_services:
     btn_label: "Learn More"
 
 projects:
-  - excerpt: "<h1>Projects</h1>"
+  - title: "<h1>Projects</h1>"
 feature_row_projects:
   - image_path: /assets/images/shrey_tbook.png
     alt: ""
     title: "Travel By Book"
     excerpt: "for when you want a book about a place"
-    url: "https://travelbybook.streamlit.app/"
+    url: "/travel-by-book/" # "https://travelbybook.streamlit.app/"
+    btn_class: "btn--primary"
+    btn_label: "Go To Project"
+  - image_path: /assets/images/pensive_tarot.png #/assets/images/shrey_fairshare.png
+    alt: ""
+    title: "Pensive Tarot"
+    excerpt: "reflect on your life through writing"
+    url: "https://shrey.pythonanywhere.com/"
     btn_class: "btn--primary"
     btn_label: "Go To Project"
   - image_path: /assets/images/shrey_fairshare.png
@@ -36,46 +42,70 @@ feature_row_projects:
     excerpt: "for when splitting 50-50 isn't fair"
     url: "https://fairshare.streamlit.app/"
     btn_class: "btn--primary"
-    btn_label: "Go To Project"
-  - image_path: /assets/images/shrey_writing.png
-    alt: ""
-    title: "Writing"
-    excerpt: "who doesn't love the written word"
-    url: "https://shreyansen.github.io/writing/"
-    btn_class: "btn--primary"
     btn_label: "Go To Project"  
 code:
-  - excerpt: "<h1>Code Base</h1>"   
+  - image_path: ""
+    title: "Code Base"   
 feature_row_code:
-  - image_path: /assets/images/sen-mountains.jpeg
+  - image_path: /assets/images/statistical_cookbook_codebase.png
     alt: ""
-    title: "Data Scientist"
+    title: "Statistical Cookbook"
+    excerpt: "my personal storehouse of statistical knowledge"
+    url: "https://github.com/ShreyanSen/statistics_cookbook"
+    btn_class: "btn--primary"
+    btn_label: "Go To Code" 
+  - image_path: /assets/images/autojournal_codebase.png
+    alt: ""
+    title: "AutoJournal"
+    excerpt: "get monthly AI smart summaries for your diary using local llms (don't send it to the cloud!)"
+    url: "https://github.com/ShreyanSen/AutoJournal"
+    btn_class: "btn--primary"
+    btn_label: "Go To Code" 
+  - image_path: /assets/images/yt_transcription_codebase.png
+    alt: ""
+    title: "YT Transcription GUI Exe"
+    excerpt: "download transcripts of videos from youtube via desktop GUI run from .exe equivalent"
+    url: "https://github.com/ShreyanSen/youtube_transcription_desktop_app"
+    btn_class: "btn--primary"
+    btn_label: "Go To Code" 
+  - image_path: /assets/images/simulations_codebase.png
+    alt: ""
+    title: "Simulations Notebooks"
     excerpt: ""
-    url: "https://www.linkedin.com/in/shreyansen/"
+    url: "https://github.com/ShreyanSen/simulations"
     btn_class: "btn--primary"
-    btn_label: "Click To Think"
-  - image_path: /assets/images/sen-water.jpeg
+    btn_label: "Go To Code" 
+  - image_path: /assets/images/travel_by_book_codebase.png
     alt: ""
-    title: "Mindfulness Instructor"
+    title: "Travel By Book Codebase"
     excerpt: ""
-    url: "/mindfulness-instruction/"
+    url: "https://github.com/ShreyanSen/TravelByBook"
     btn_class: "btn--primary"
-    btn_label: "Click To Pause"
-  - image_path: /assets/images/sen-flower.jpeg
+    btn_label: "Go To Code"
+  - image_path: /assets/images/tarot_codebase.png
     alt: ""
-    title: "Writer"
+    title: "Pensive Tarot Codebase"
     excerpt: ""
-    url: "https://shreyansen.github.io/writing/"
+    url: "https://github.com/ShreyanSen/FairShare"
     btn_class: "btn--primary"
-    btn_label: "Click To Feel"  
-  - image_path: /assets/images/sen-flower.jpeg
+    btn_label: "Go To Code"
+  - image_path: /assets/images/fairshare_codebase.png
     alt: ""
-    title: "Test"
-    excerpt: "Just testing what this does here"
-    url: "https://shreyansen.github.io/writing/"
+    title: "Fair Share Codebase"
+    excerpt: ""
+    url: "https://github.com/ShreyanSen/FairShare"
     btn_class: "btn--primary"
-    btn_label: "Click To Feel" 
+    btn_label: "Go To Code"  
 
+
+writing:
+  - image_path: /assets/images/shrey_writing.png
+    alt: ""
+    title: "Reflection"
+    excerpt: "it's mirrors all the way down"
+    url: "https://shreyansen.github.io/writing/"
+    btn_class: "btn--primary"
+    btn_label: "Click To Feel"
 feature_row_archived:
   - image_path: /assets/images/sen-mountains.jpeg
     alt: ""
@@ -110,12 +140,11 @@ feature_row_archived:
 <!---
 dropped lines: 
 {% include feature_row id="services" type="center" %}
--->
-{% include feature_row id="services" type="center" %}
-{% include feature_row id="feature_row_services" type="center"%}
 {% include feature_row id="projects" type="center" %}
-{% include feature_row id="feature_row_projects"%}
-{% include feature_row id="code" type="center" %}
+
+-->
+{% include feature_row id="feature_row_services" type="center"%}
 {% include feature_row id="feature_row_projects"%}
 {% include feature_row id="feature_row_code"%}
+{% include feature_row id="writing" type="center"%}
 
