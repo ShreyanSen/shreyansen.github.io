@@ -96,6 +96,7 @@ feature_row_code:
     url: "https://github.com/ShreyanSen/FairShare"
     btn_class: "btn--primary"
     btn_label: "Go To Code"  
+  
 
 
 writing:
@@ -106,6 +107,14 @@ writing:
     url: "https://shreyansen.github.io/writing/"
     btn_class: "btn--primary"
     btn_label: "Click To Feel"
+mindful:
+  - image_path: /assets/images/mndfl_certificate.png
+    alt: ""
+    title: "Mindfulness Instruction"
+    excerpt: "teaching fundamentals of mindfulness"
+    url: "/mindfulness-instruction/"
+    btn_class: "btn--primary"
+    btn_label: "Click To Pause"
 feature_row_archived:
   - image_path: /assets/images/sen-mountains.jpeg
     alt: ""
@@ -147,4 +156,6 @@ dropped lines:
 {% include feature_row id="feature_row_projects"%}
 {% include feature_row id="feature_row_code"%}
 {% include feature_row id="writing" type="center"%}
+{% include feature_row id="mindful" type="center"%}
+
 
