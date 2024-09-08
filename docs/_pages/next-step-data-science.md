@@ -18,10 +18,10 @@ If you are an aspiring or new data scientist, I can help you:
 * build a dream portfolio to prove your skills
 * code from a place of confidence, clarity, and ease
 
-My training method is project-based and skills-based, and you learn by doing. First, we develop a project plan based on your interests, or you choose from a portfolio of suggested projects. We meet once a week to have an accountability check-in, pair code, or explore mindful coding practices. Since each person has differents goals and background, each path is unique. We work together to discover yours. 
+My training method is project-based and skills-based, and you learn by doing. First, we develop a project plan based on your interests, or you choose from a portfolio of suggested projects. We meet once a week to have an accountability check-in, pair code, or explore mindful coding practices. Since each person has different goals and background, each path is unique. We work together to discover yours. 
 
 If this resonates, please reach out today to schedule a free introductory session at nextstepdatascience at gmail.com.
 
 # What Is Mindful Coding
 
- Mindful coding is a series of practices I developed with my Zen teacher, to tap into states of freedom and flow while we code. After a lifetime of the stress-based orientation to work taught in schools, many people are constantly suffering while working, but this can change.
+ Mindful coding is a series of practices I developed with my Zen teacher, to tap into states of freedom and flow while we code. After a lifetime of the stress-based orientation to work taught in schools, many people are constantly suffering while working, but this can change with a mindfulness-based orientation to coding. You will also find this has benefits beyond the computer screen.
