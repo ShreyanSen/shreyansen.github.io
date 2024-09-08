@@ -13,9 +13,9 @@ services:
 feature_row_services:
   - image_path: /assets/images/sen-flower.jpeg #/assets/images/sen-mountains.jpeg
     alt: ""
-    title: "Next Level Data Science"
+    title: "Next Step Data Science"
     excerpt: "learn what they don't teach in school <br> overcome imposter syndrome <br> discover mindful coding"
-    url: "/next-level-data-science/"
+    url: "/next-step-data-science/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 
@@ -26,7 +26,7 @@ feature_row_projects:
     alt: ""
     title: "Travel By Book"
     excerpt: "for when you want a book about a place"
-    url: "/travel-by-book/" # "https://travelbybook.streamlit.app/"
+    url: "https://travelbybook.streamlit.app/"
     btn_class: "btn--primary"
     btn_label: "Go To Project"
   - image_path: /assets/images/pensive_tarot.png #/assets/images/shrey_fairshare.png
