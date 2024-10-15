@@ -152,9 +152,9 @@ dropped lines:
 {% include feature_row id="projects" type="center" %}
 
 -->
-{% include feature_row id="feature_row_services" type="center"%}
 {% include feature_row id="feature_row_projects"%}
 {% include feature_row id="feature_row_code"%}
+{% include feature_row id="feature_row_services" type="center"%}
 {% include feature_row id="writing" type="center"%}
 {% include feature_row id="mindful" type="center"%}
 
