@@ -1,21 +1,15 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: 
-excerpt: 
+excerpt:
+excerpt:
   <br />
 header:
   overlay_image: /assets/images/shrey_flower.jpeg
 
 ---
-Welcome! I am Shreyan Sen, a data scientist, certified mindfulness and yoga instructor, and general tinkerer. Let me tell you my story.
+Welcome! I am Shreyan Sen, a data scientist, certified mindfulness and yoga instructor, and general tinkerer.
 
-Like many people I've lived a few different lives. Born in Calcutta and raised in North Dakota, I was packed off to college at 16. I studied Physics with a side of English at Duke, but didn't feel like a strong enough physicist to keep pursuing it. Instead I joined the Peace Corps where I lived and worked for two years in a village in Guinea, West Africa. Next I attended Stanford as a graduate student, where I won a prestigious NSF GRFP and worked on water and sanitation systems in Kenya and Bangladesh. I couldn't make it into the research group I wanted so I pivoted back into the math world, leaving Stanford with Masters degrees in Statistics and Environmental Engineering. 
+I was born in Kolkata, India, and my family immigrated to the United States when I was 2. I spent many of my early years living in Fargo, ND and suffered from acute nerdiness, skipping 2 grades for no reason. After completing my B.S. in Physics at Duke University, I served as a U.S. Peace Corps Volunteer in rural Guinea. It was a life-changing experience, cementing my desire to be of some use to others. Next I enrolled at Stanford University as a graduate student in Environmental Engineering, studying water and sanitation in the context of international development. I remember my time at Stanford as one of both great beauty and great difficulty, and I was unable to complete my PhD. Instead I finished an M.S. in Statistics and pivoted into data science. For two years I worked at a geospatial / IoT (Internet of Things) company before returning to the impact sector, working at an air quality monitoring startup which also ran an IoT sensor network stack. I was laid off in 2023, allowing me to spend the next year traveling the world. By this time my personal interest in contemplative practice had already sprouted. I completed a 200-hour yoga teacher training in Rishikesh, the birthplace of yoga, complementing a 75-hour mindfulness instructor training I'd completed in 2022. However, the core of my ongoing practice centers around my training with [Zen Master & Therapist Jion](http://jion-blonstein.com/)
 
-For the next 5 years I worked as a Data Scientist at well-funded geospatial and climate startups, deepening my statistical knowledge and learning foundational software development skills. When remote work blossomed I traded my lease in San Francisco for the digital nomad lifestyle. After losing my job to a round of layoffs in 2023 I began traveling full-time, wandering Central America, Asia, and Europe. I deepened my practice with my [Zen teacher](http://jion-blonstein.com/), completed my yoga teacher training in Rishikesh, and wrote a lot of code. I wrote code to prove to myself I could. I wrote code to practice making things that wanted to be made. I wrote code to rediscover coding and math as a form of self-expression arising from the selfless self.
-
->"To carry yourself forward and experience myriad things is delusion. That
->myriad things come forth and experience themselves is awakening."
->
-> <cite>Dogen, Genjokoan</cite>
-
+Today I work at yet another IoT sensor network company, still in the impact sector, this time working with the electrical grid. Though I get to spend my time on many things I particularly enjoy writing, movement, and bansuri. Bring something to my attention; let's work together.
